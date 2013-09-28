@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Jekyll-Bootstrap
 
 The quickest way to start and publish your Jekyll powered blog. 100% compatible with GitHub pages
@@ -16,9 +17,6 @@ You might want to run 0.3.0 in a branch to make sure you are ok with the theme d
 
 ## Contributing
 
-This repository tracks 2 projects:
-
-- **Jekyll-Bootstrap Framework.**
   The framework for which users should clone and build their blog on top of is available in the master branch.
 
   To contribute to the framework please make sure to checkout your branch based on `jb-development`!!
@@ -44,3 +42,6 @@ The master and gh-pages branch do not share the same ancestry. Please treat them
 ## License
 
 [MIT](http://opensource.org/licenses/MIT)
+=======
+blog
+====
